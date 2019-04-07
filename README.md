@@ -1,0 +1,1 @@
+📖⚙️ Practical task from The Rust Programming Language book
